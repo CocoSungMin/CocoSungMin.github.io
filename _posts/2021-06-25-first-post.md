@@ -12,7 +12,7 @@ last_modified_at : 2021-06-25T08:19:00-20:00
 
 ---
 
-### Multimedia&Lab course hint-based colorization in spring semester 2021,Department of software, Gachon Uni. 
+### Multimedia&Lab course hint-based colorization in spring semester 2021, Department of software,  Gachon Uni. 
 
 Our team ranked 1st place of challenge
 <img width="1243" alt="Screen Shot 2021-05-28 at 12 07 50 AM" src="https://user-images.githubusercontent.com/57583574/119850812-d5c5e980-bf48-11eb-8afb-325c95a3c258.png">
