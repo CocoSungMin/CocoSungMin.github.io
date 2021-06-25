@@ -33,14 +33,14 @@ Our team ( espectially me ) used various models for training.
 5. Our model
 
 The Architecture of our model :
-![Picture1](https://user-images.githubusercontent.com/57583574/119441049-68effb00-bd60-11eb-98c1-4877df56fb21.png)
+![Screen Shot 2021-05-26 at 11 12 05 AM](https://user-images.githubusercontent.com/57583574/119592333-3a7f2800-be13-11eb-9d99-bd4fe0bee3e2.png)
 
 I referenced 4 papers below 
 Referenced Paper
-1. U-Net Convolutional Networks for Biomedical Image Segmentation : https://arxiv.org/abs/1505.04597.   
-2. Attention U-Net Learning Where to Look for the Pancreas : https://arxiv.org/abs/1804.03999      
-3. Real-Time User-Guided Image Colorization with Learned Deep Priors : https://arxiv.org/abs/1705.02999.  
-4. Deep Residual Learning for Image Recognition : https://arxiv.org/abs/1512.03385.   
+1. U-Net Convolutional Networks for Biomedical Image Segmentation : "https://arxiv.org/abs/1505.04597".   
+2. Attention U-Net Learning Where to Look for the Pancreas : "https://arxiv.org/abs/1804.03999"      
+3. Real-Time User-Guided Image Colorization with Learned Deep Priors : "https://arxiv.org/abs/1705.02999".  
+4. Deep Residual Learning for Image Recognition : "https://arxiv.org/abs/1512.03385".   
 
 The main purpose of these project is winning the in course challenge so we overfited the model. Therefore we don't know our model is efficient to general data or not.
 
